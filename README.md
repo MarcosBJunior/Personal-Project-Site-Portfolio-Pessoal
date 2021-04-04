@@ -1,11 +1,10 @@
 # Personal-Project-Site-Portfolio-Pessoal
 
 
-![ft1](https://user-images.githubusercontent.com/69303138/113502681-30703580-9504-11eb-9900-c118f4b1061c.png)  ![ft3](https://user-images.githubusercontent.com/69303138/113503261-1421c800-9507-11eb-88fb-d1235c994b53.png)
 
 
 
-![gt2](https://user-images.githubusercontent.com/69303138/113502706-5a295c80-9504-11eb-85e8-37d09360cd03.png)
+
 
 
 
