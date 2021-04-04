@@ -2,7 +2,6 @@
 
 
 
-![gif1](https://user-images.githubusercontent.com/69303138/113503470-74fdd000-9508-11eb-8cc1-f99297c52c22.gif)
 
 
 
