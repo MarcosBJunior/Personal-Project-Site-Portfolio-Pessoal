@@ -7,13 +7,13 @@
 
 
 
-##👨‍💻 **Projeto**👨‍💻
+👨‍💻 ##**Projeto**👨‍💻
 
 O portifolio pessoal é um site que tem a finalidade de exibir as suas habilidades profissionais, anunciar o valor do seu trabalho e, claro, mostrar aos seus clientes em potencial o tipo de experiência que você é capaz de proporcionar.
 
 
 
-##⌨ **Linguagens Utilizadas no Projeto**⌨ 
+⌨ ##**Linguagens Utilizadas no Projeto**⌨ 
 
 
  ![file_type_html_icon_130541](https://user-images.githubusercontent.com/69303138/113502725-7f1dcf80-9504-11eb-9e43-2e8955d6933d.png)  
@@ -24,7 +24,7 @@ O portifolio pessoal é um site que tem a finalidade de exibir as suas habilidad
  
 
 
-##🚀 **Tecnologias Utilizadas no Projeto**🚀
+🚀 ##**Tecnologias Utilizadas no Projeto**🚀
 
 
 ![bootstrap_plain_logo_icon_146619](https://user-images.githubusercontent.com/69303138/113502839-0ec37e00-9505-11eb-8934-97ea59ac8ddf.png)                
