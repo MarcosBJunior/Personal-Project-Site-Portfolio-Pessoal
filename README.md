@@ -22,7 +22,7 @@ O portifolio pessoal é um site que tem a finalidade de exibir as suas habilidad
 
 🚀 Tecnologias
 
-*Bootstrap
+* Bootstrap
 
 
 
