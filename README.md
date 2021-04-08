@@ -28,8 +28,8 @@ O portifolio pessoal é um site que tem a finalidade de exibir as suas habilidad
 
 ## 🚀 **Tecnologias Utilizadas no Projeto**🚀
 
-           
-     
+
+![bootstrap_plain_logo_icon_146619](https://user-images.githubusercontent.com/69303138/113502839-0ec37e00-9505-11eb-8934-97ea59ac8ddf.png)
 
 
 
