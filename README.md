@@ -26,14 +26,15 @@ O portifolio pessoal é um site que tem a finalidade de exibir as suas habilidad
 
  ## ⚠️ **Build** ⚠️
 
-1. Crie uma pasta em sua area de trabalho 
-2. nomeie a pasta como preferir
-3. abra o Vs Code
-4. com o Vs Code aberto selecione a pasta que acabou de criar 
+1. Crie uma pasta em sua area de trabalho. 
+2. nomeie a pasta como preferir.
+3. Abra o Vs Code.
+4. Com o Vs Code aberto selecione a pasta que acabou de criar. 
 5. Com a pasta selecionada crie um arquivo com o nome de index.htm
 6. Com o arquivo aberto insria os links abaixo referentes ao bootstrap![Captura de tela 2021-04-19 230021](https://user-images.githubusercontent.com/69303138/115326084-11f47600-a163-11eb-9e3c-8b5d90109bce.png)
 7. Em seguida insira os links abaixo referentes ao JavaScript![script](https://user-images.githubusercontent.com/69303138/115326246-5e3fb600-a163-11eb-863f-be6cd2e318fe.png)
-8. 
+8. Em seguida crie mais dois arquivos html e repita o processo de colocar os links.
+
 
 
 
