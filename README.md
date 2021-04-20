@@ -31,8 +31,8 @@ O portifolio pessoal é um site que tem a finalidade de exibir as suas habilidad
 3. abra o Vs Code
 4. com o Vs Code aberto selecione a pasta que acabou de criar 
 5. Com a pasta selecionada crie um arquivo com o nome de index.htm
-6. Com o arquivo aberto insria os links abaixo referentes ao bootstrap
- <pre><code><span><link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"></span></code></pre>
+6. Com o arquivo aberto insria os links abaixo referentes ao bootstrap![Captura de tela 2021-04-19 230021](https://user-images.githubusercontent.com/69303138/115326084-11f47600-a163-11eb-9e3c-8b5d90109bce.png)
+
 
 
 
